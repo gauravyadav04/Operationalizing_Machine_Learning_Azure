@@ -44,5 +44,5 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 
 ## Screen Recording
-[![IMAGE ALT TEXT HERE](https://youtu.be/GuhpixjSE54/0.jpg)](https://youtu.be/GuhpixjSE54)
+[![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)](https://youtu.be/GuhpixjSE54)
 
