@@ -44,7 +44,5 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 
 ## Screen Recording
-https://youtu.be/GuhpixjSE54
+[![IMAGE ALT TEXT HERE](https://youtu.be/GuhpixjSE54/0.jpg)](https://youtu.be/GuhpixjSE54)
 
-## Standout Suggestions
-*TODO (Optional):* This is where you can provide information about any standout suggestions that you have attempted.
