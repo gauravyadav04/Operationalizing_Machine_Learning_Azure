@@ -11,63 +11,36 @@
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
-![1](https://user-images.githubusercontent.com/6285945/104124422-dd5c6b80-5376-11eb-8e36-fd3e34513902.png)
+![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)
 
+![4](https://user-images.githubusercontent.com/6285945/104132695-04ca2d00-53a5-11eb-8be3-a8ea8a7609e7.png)
 
+![5](https://user-images.githubusercontent.com/6285945/104132699-07c51d80-53a5-11eb-8807-e553c9bdea58.png)
 
-![3](https://user-images.githubusercontent.com/6285945/104124427-e2211f80-5376-11eb-8a4a-5644560c9432.png)
+![6](https://user-images.githubusercontent.com/6285945/104132700-0ac00e00-53a5-11eb-8a5e-b77afce851de.png)
 
+![7](https://user-images.githubusercontent.com/6285945/104132702-0d226800-53a5-11eb-8b4f-df5db497d03e.png)
 
+![8](https://user-images.githubusercontent.com/6285945/104132705-0f84c200-53a5-11eb-815f-0ca5292a83ef.png)
 
-![4](https://user-images.githubusercontent.com/6285945/104124431-e6e5d380-5376-11eb-820f-e0f611160211.png)
+![9](https://user-images.githubusercontent.com/6285945/104132706-127fb280-53a5-11eb-9ca8-d42e06a7aa3e.png)
 
+![10](https://user-images.githubusercontent.com/6285945/104132709-157aa300-53a5-11eb-8a1e-adf4f2286cf0.png)
 
+![11](https://user-images.githubusercontent.com/6285945/104132712-18759380-53a5-11eb-8770-0565e6677245.png)
 
-![5](https://user-images.githubusercontent.com/6285945/104124433-e9e0c400-5376-11eb-933e-61844434b504.png)
+![12](https://user-images.githubusercontent.com/6285945/104132716-1ad7ed80-53a5-11eb-8abd-a172ffc5d3ff.png)
 
+![13](https://user-images.githubusercontent.com/6285945/104132717-1e6b7480-53a5-11eb-9b80-3c3e802febf4.png)
 
+![14](https://user-images.githubusercontent.com/6285945/104132718-21666500-53a5-11eb-91e1-0dab41272370.png)
 
-![8](https://user-images.githubusercontent.com/6285945/104124435-eea57800-5376-11eb-9aa1-fbcee8db18f6.png)
+![15](https://user-images.githubusercontent.com/6285945/104132720-24615580-53a5-11eb-8725-1cf862efddaf.png)
 
+![16](https://user-images.githubusercontent.com/6285945/104132722-26c3af80-53a5-11eb-8878-bb1234368f3a.png)
 
+![17](https://user-images.githubusercontent.com/6285945/104132725-29bea000-53a5-11eb-9071-bfe2c5db722d.png)
 
-![9](https://user-images.githubusercontent.com/6285945/104124439-f238ff00-5376-11eb-90eb-c9abee714e89.png)
-
-
-
-![12](https://user-images.githubusercontent.com/6285945/104124441-f7964980-5376-11eb-8905-30fde28aec63.png)
-
-
-
-![13](https://user-images.githubusercontent.com/6285945/104124446-fc5afd80-5376-11eb-8a80-4508eb485373.png)
-
-
-
-![14](https://user-images.githubusercontent.com/6285945/104124448-febd5780-5376-11eb-8b77-e8b9b5f72c1d.png)
-
-
-
-![15](https://user-images.githubusercontent.com/6285945/104124453-0250de80-5377-11eb-8056-c5e7850d8b90.png)
-
-
-
-![16](https://user-images.githubusercontent.com/6285945/104124458-054bcf00-5377-11eb-97cd-3a29bd77985e.png)
-
-
-
-![18](https://user-images.githubusercontent.com/6285945/104124464-0a108300-5377-11eb-9b12-2bc26258fc21.png)
-
-
-
-![17](https://user-images.githubusercontent.com/6285945/104124468-11d02780-5377-11eb-954c-dbb0a2b39307.png)
-
-
-
-![19](https://user-images.githubusercontent.com/6285945/104124472-1694db80-5377-11eb-87be-94b15449ed89.png)
-
-
-
-![20](https://user-images.githubusercontent.com/6285945/104124478-1a286280-5377-11eb-9c14-10b4c36cca3d.png)
 
 
 
