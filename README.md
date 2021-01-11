@@ -61,6 +61,8 @@ The following screenshot demonstrates the output received from the deployed mode
 
 ![13](https://user-images.githubusercontent.com/6285945/104132717-1e6b7480-53a5-11eb-9b80-3c3e802febf4.png)
 
+5. Publish ML pipeline - in this step I have used python SDK to create and publish an end to end pipeline
+
 ![14](https://user-images.githubusercontent.com/6285945/104132718-21666500-53a5-11eb-91e1-0dab41272370.png)
 
 ![15](https://user-images.githubusercontent.com/6285945/104132720-24615580-53a5-11eb-8725-1cf862efddaf.png)
