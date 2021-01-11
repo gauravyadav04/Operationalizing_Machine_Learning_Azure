@@ -31,13 +31,16 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 ![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)
 
-2. Createed an AutoML experiment, in this step I have configured a compute cluster
+2. Created an AutoML experiment, in this step I have configured a compute cluster and ran an AutoML experiment on the registered Bank Marketing dataset. The following screenshots show the successfully completed AutoML run. The best model from this experiment was the VotingEnsemble with a weighted AUC score of approximately 95%
 
 ![4](https://user-images.githubusercontent.com/6285945/104132695-04ca2d00-53a5-11eb-8be3-a8ea8a7609e7.png)
 
 ![5](https://user-images.githubusercontent.com/6285945/104132699-07c51d80-53a5-11eb-8807-e553c9bdea58.png)
 
 ![6](https://user-images.githubusercontent.com/6285945/104132700-0ac00e00-53a5-11eb-8a5e-b77afce851de.png)
+
+
+3. Deployed the best AutoML model (VotingEnsemble) and enabled logging and apllication insight generation using the logs.py script
 
 ![7](https://user-images.githubusercontent.com/6285945/104132702-0d226800-53a5-11eb-8b4f-df5db497d03e.png)
 
