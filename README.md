@@ -46,6 +46,9 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 ![8](https://user-images.githubusercontent.com/6285945/104132705-0f84c200-53a5-11eb-815f-0ca5292a83ef.png)
 
+
+4. Consume model using swagger - in this step I have used the swagger.json available in the Endpoints for deployed model. Swagger helps in building, documenting, and consuming RESTful web services. It also explains what types of HTTP requests that an API can consume, like POST and GET
+
 ![9](https://user-images.githubusercontent.com/6285945/104132706-127fb280-53a5-11eb-9ca8-d42e06a7aa3e.png)
 
 ![10](https://user-images.githubusercontent.com/6285945/104132709-157aa300-53a5-11eb-8a1e-adf4f2286cf0.png)
@@ -53,6 +56,8 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 ![11](https://user-images.githubusercontent.com/6285945/104132712-18759380-53a5-11eb-8770-0565e6677245.png)
 
 ![12](https://user-images.githubusercontent.com/6285945/104132716-1ad7ed80-53a5-11eb-8abd-a172ffc5d3ff.png)
+
+The following screenshot demonstrates the output received from the deployed model by running endpoint.py against the REST API
 
 ![13](https://user-images.githubusercontent.com/6285945/104132717-1e6b7480-53a5-11eb-9b80-3c3e802febf4.png)
 
