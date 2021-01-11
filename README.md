@@ -24,8 +24,7 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 * Look at other performance metric such as Precision, Recall and F1 Score as Accuracy metric can be misleading while working with class imbalanced dataset 
 
-## Key Steps
-*TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
+## Key Steps 
 
 1. Registered Bank Marketing dataset
 
