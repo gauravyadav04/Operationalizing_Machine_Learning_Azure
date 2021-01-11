@@ -18,10 +18,20 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 5. Use the REST endpoint to interact with the deployed model with sample data and check its prediction results
 6. Use python SDK to create a pipeline selecting the best AutoML model and publish it
 
+## Future Work
+
+* While running AutoML pipeline **Class Imbalance** alert was generated, this is one of the future improvements that should be implemented. We can look at different ways to combat class imbalance, such as - resampling training data, generate synthetic samples using SMOTE or the Synthetic Minority Over-sampling Technique, etc.
+
+* Look at other performance metric such as Precision, Recall and F1 Score as Accuracy metric can be misleading while working with class imbalanced dataset 
+
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
+1. Register Bank Marketing dataset
+
 ![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)
+
+2. Create an AutoML experiment
 
 ![4](https://user-images.githubusercontent.com/6285945/104132695-04ca2d00-53a5-11eb-8be3-a8ea8a7609e7.png)
 
