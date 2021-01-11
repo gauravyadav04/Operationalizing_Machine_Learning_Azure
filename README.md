@@ -27,11 +27,11 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
 
-1. Register Bank Marketing dataset
+1. Registered Bank Marketing dataset
 
 ![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)
 
-2. Create an AutoML experiment
+2. Createed an AutoML experiment, in this step I have configured a compute cluster
 
 ![4](https://user-images.githubusercontent.com/6285945/104132695-04ca2d00-53a5-11eb-8be3-a8ea8a7609e7.png)
 
