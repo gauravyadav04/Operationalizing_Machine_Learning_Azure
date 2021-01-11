@@ -6,9 +6,17 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 ## Architectural Diagram
 
-![Architecture](https://user-images.githubusercontent.com/6285945/104144770-aaec5600-53ea-11eb-8732-c910ac7c28ed.png)
+![Architecture2](https://user-images.githubusercontent.com/6285945/104144863-fe5ea400-53ea-11eb-9844-a2becbb5d837.JPG)
 
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
+*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model".
+1. Register the Bank Marketing dataset
+2. Create AutoML experiment -
+   a. Create a new Standard_DS12_v2 compute cluster
+   b. Configure model run by checking "Explain best model", reduce exit criterion to 1 hour, and reduce concurrency to 5
+3. Select best model from AutoML experiment and deploy it using Azure Container Instance (ACI), also enable "Authentication"
+4. Enable logging and application insight service for keeping track of deployed model performance and number of request handled/failed
+5. Use the REST endpoint to interact with the deployed model with sample data and check its prediction results
+6. Use python SDK to create a pipeline selecting the best AutoML model and publish it
 
 ## Key Steps
 *TODO*: Write a short discription of the key steps. Remeber to include all the screenshots required to demonstrate key steps. 
