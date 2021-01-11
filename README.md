@@ -5,6 +5,9 @@ This project is part of the Udacity Azure ML Nanodegree.
 In this project, I have used [Bank Marketing dataset](https://automlsamplenotebookdata.blob.core.windows.net/automl-sample-notebook-data/bankmarketing_train.csv) to train a machine learning model using AutoML in Azure Machine Learning Studio and deploy the best model using Azure Container Instance and later consume it using REST endpoints. Also created and published a pipeline using python sdk
 
 ## Architectural Diagram
+
+![Architecture](https://user-images.githubusercontent.com/6285945/104144770-aaec5600-53ea-11eb-8732-c910ac7c28ed.png)
+
 *TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model". 
 
 ## Key Steps
