@@ -8,7 +8,7 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 ![Architecture2](https://user-images.githubusercontent.com/6285945/104144863-fe5ea400-53ea-11eb-9844-a2becbb5d837.JPG)
 
-*TODO*: Provide an architectual diagram of the project and give an introduction of each step. An architectural diagram is an image that helps visualize the flow of operations from start to finish. In this case, it has to be related to the completed project, with its various stages that are critical to the overall flow. For example, one stage for managing models could be "using Automated ML to determine the best model".
+
 1. Register the Bank Marketing dataset
 2. Create AutoML experiment -
    a. Create a new Standard_DS12_v2 compute cluster
