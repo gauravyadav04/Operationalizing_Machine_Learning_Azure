@@ -28,22 +28,26 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 1. Registered Bank Marketing dataset
 
-![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)
+![1](https://user-images.githubusercontent.com/6285945/104740240-b84c6c00-576d-11eb-92f6-bc3cde26942f.png)
 
 2. Created an AutoML experiment, in this step I have configured a compute cluster and ran an AutoML experiment on the registered Bank Marketing dataset. The following screenshots show the successfully completed AutoML run. The best model from this experiment was the VotingEnsemble with a weighted AUC score of approximately 95%
 
-![4](https://user-images.githubusercontent.com/6285945/104132695-04ca2d00-53a5-11eb-8be3-a8ea8a7609e7.png)
+![3](https://user-images.githubusercontent.com/6285945/104740253-be424d00-576d-11eb-8543-8cc51dbee112.png)
 
-![5](https://user-images.githubusercontent.com/6285945/104132699-07c51d80-53a5-11eb-8807-e553c9bdea58.png)
+![2](https://user-images.githubusercontent.com/6285945/104740250-bbdff300-576d-11eb-87de-1ab4609896a4.png)
 
-![6](https://user-images.githubusercontent.com/6285945/104132700-0ac00e00-53a5-11eb-8a5e-b77afce851de.png)
+![4](https://user-images.githubusercontent.com/6285945/104740261-c0a4a700-576d-11eb-8af0-e7ae1581a27a.png)
+
+![5](https://user-images.githubusercontent.com/6285945/104740274-c39f9780-576d-11eb-9294-b69dfe50420a.png)
+
+![6](https://user-images.githubusercontent.com/6285945/104740281-c69a8800-576d-11eb-8a27-0d2f84348ca3.png)
 
 
 3. Deployed the best AutoML model (VotingEnsemble) and enabled logging and apllication insight generation using the logs.py script
 
-![7](https://user-images.githubusercontent.com/6285945/104132702-0d226800-53a5-11eb-8b4f-df5db497d03e.png)
+![7](https://user-images.githubusercontent.com/6285945/104740287-c9957880-576d-11eb-993f-4e4cee01f5d5.png)
 
-![8](https://user-images.githubusercontent.com/6285945/104132705-0f84c200-53a5-11eb-815f-0ca5292a83ef.png)
+![8](https://user-images.githubusercontent.com/6285945/104740293-cd28ff80-576d-11eb-8863-7e041db3edb3.png)
 
 
 4. Consume model using swagger - in this step I have used the swagger.json available in the Endpoints for deployed model. Swagger helps in building, documenting, and consuming RESTful web services. It also explains what types of HTTP requests that an API can consume, like POST and GET
@@ -58,17 +62,19 @@ In this project, I have used [Bank Marketing dataset](https://automlsamplenotebo
 
 The following screenshot demonstrates the output received from the deployed model by running endpoint.py against the REST API
 
-![13](https://user-images.githubusercontent.com/6285945/104132717-1e6b7480-53a5-11eb-9b80-3c3e802febf4.png)
+![13](https://user-images.githubusercontent.com/6285945/104740401-eb8efb00-576d-11eb-8d6d-93f9cd4b76c7.png)
 
 5. Publish ML pipeline - in this step I have used python SDK to create and publish an end to end pipeline
 
-![14](https://user-images.githubusercontent.com/6285945/104132718-21666500-53a5-11eb-91e1-0dab41272370.png)
+![14](https://user-images.githubusercontent.com/6285945/104740411-ef228200-576d-11eb-8882-4d34001380b6.png)
 
-![15](https://user-images.githubusercontent.com/6285945/104132720-24615580-53a5-11eb-8725-1cf862efddaf.png)
+![15](https://user-images.githubusercontent.com/6285945/104740414-f184dc00-576d-11eb-8548-2fdca8a4167e.png)
 
-![16](https://user-images.githubusercontent.com/6285945/104132722-26c3af80-53a5-11eb-8878-bb1234368f3a.png)
+![16](https://user-images.githubusercontent.com/6285945/104740424-f3e73600-576d-11eb-865b-726c71df043c.png)
 
-![17](https://user-images.githubusercontent.com/6285945/104132725-29bea000-53a5-11eb-9071-bfe2c5db722d.png)
+![17](https://user-images.githubusercontent.com/6285945/104740433-f6499000-576d-11eb-9461-9a39d182929c.png)
+
+![18](https://user-images.githubusercontent.com/6285945/104740445-f8abea00-576d-11eb-8f74-b3da067b3aa9.png)
 
 
 
