@@ -80,5 +80,5 @@ The following screenshot demonstrates the output received from the deployed mode
 
 
 ## Screen Recording
-[![1](https://user-images.githubusercontent.com/6285945/104132692-ff6ce280-53a4-11eb-9ce4-94f9d7b0aef9.png)](https://youtu.be/GuhpixjSE54)
+[![1](https://user-images.githubusercontent.com/6285945/104740240-b84c6c00-576d-11eb-92f6-bc3cde26942f.png)](https://youtu.be/cfYyhIuwyXw)
 
